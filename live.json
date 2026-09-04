@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T17:28:42.147888+00:00",
+  "updated": "2026-09-04T17:39:49.618711+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -98,6 +98,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/469de2bb-3f40-48c8-96cf-bac4e964b2c4",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9kODM1OTdmNi03NjYwLTQ0OTUtYjQ4MS1jMjQ5MWE5M2VkMWMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=10df9f9c243348094c11f6ae57600271f61df114fc526a31b2d64e3f00e6d2bb"
+    },
+    {
+      "user": "beezys_basement",
+      "title": "Its Friday Card Show",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/c410f4a4-f83a-4890-ba96-cf490f2af639",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy81NmI0NDI1Yi00MzZiLTRlYzUtYjEwZi0xODMzOGVkMjY2NWYuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=08eb5e4a07e67b040f870ab2eef3182b9f4044fcb8204444f0bbe62d20609163"
     }
   ]
 }
