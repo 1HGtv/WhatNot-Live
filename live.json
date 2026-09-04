@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T16:02:08.063770+00:00",
+  "updated": "2026-09-04T16:19:20.528682+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -91,6 +91,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/035b0c74-bfd6-4733-aaf0-bd63d2bed480",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8xYmU1MjIyZi0xN2U5LTQyMzEtYWUwMC01ZDdjODY3ZTU5NmEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=fe1dd9b71679b21a8fa300fe26ef39b3e68f5290b43f8254b1813dbbf61f3348"
+    },
+    {
+      "user": "bleechcards",
+      "title": "FANART",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/57bd76c7-fc79-4326-b7a7-9581d9a730d8",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9mNmMwZjgxMi1kNjEzLTRkNjktYTg3ZS0wZGVhN2U2MmU3M2EuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=d8b635ca66003e230a4530b131f5a4d794acf2553606b2fa3891e9a54da710fa"
     }
   ]
 }
