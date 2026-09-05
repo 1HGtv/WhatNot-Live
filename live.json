@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T22:01:08.779128+00:00",
+  "updated": "2026-09-05T22:01:22.193927+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -84,6 +84,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/3c181122-d345-4379-a709-48c1d5621ed8",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9iMWM3ODg3OC04NzE1LTQwNDQtOGQzZS0zMGFjZWE0ZTE4MDIuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=e9d59e200cbed7fdd9f673fbb2a1a21de77275b6b785c2fd5af9035111a3b387"
+    },
+    {
+      "user": "charizardfartz",
+      "title": "Magikarp Chases & more \ud83d\udd25",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/179ba7de-d633-43e9-ab95-1331a396a0f1",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84MTM2OTRhNC04NzAwLTRhMmEtYWVmZC02MmM2M2VjNzM1ZTcuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=ce2e1077f90dc5e4a8797ac1d05a24b77b28160a9310804d33416b56b5a0e4e5"
     }
   ]
 }
