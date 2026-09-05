@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T18:00:15.094547+00:00",
+  "updated": "2026-09-05T18:15:30.108535+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -63,6 +63,13 @@
       "type": "Breaks",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/b96a5ffc-b1e8-467b-8359-df38e95c297e",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84YTcwYjlkZi0wYmU3LTQ5ZjAtYTRkMC1jZjhiMTI5M2QyZTMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=abb14b1ae992e29a03e58a06a0fab7a6c9dee1fdac39868c22d94dfa9afe7e11"
+    },
+    {
+      "user": "koalacowboy",
+      "title": "Very, Very, Very, Very Lucky Case Break!",
+      "type": "Breaks",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/c3b5d59e-6cfe-4796-a2af-13fb7c0263bf",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8yNjllOGNlMS03NDY1LTQ2MGYtYjU5Ny00NjMyYjgzMTlmNTAuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=9b7be0c61a892c890a860cd7d356b0f1c3eb41177f371ca1131c6833f44db999"
     }
   ]
 }
