@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T04:16:53.346811+00:00",
+  "updated": "2026-09-05T04:21:39.043611+00:00",
   "lives": [
     {
       "user": "spacenarwhalz",
@@ -91,6 +91,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/05899c30-fb26-4f97-acda-45159d3f7fea",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy83NzUzNTVkMi1lNDViLTQ1MDEtYTIwMy1hOGJhNWEzZmU1ZWMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=a387a87ac730d02f5e2ebb69935643507099249e4a293acb40065170296fe19e"
+    },
+    {
+      "user": "garththejust",
+      "title": "GarthsLootPile",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/d0d5f225-2bce-436d-a27c-4982effed99e",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzU4OTUwNTI0L2RjNjY1ZjhiLWE2OTEtNDBmZS1iZWZhLWZjZjBkOGI1MDJhOS5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=596b439da9ad405861072c377bdaaf27ee4335a576d6e5a3309e750fc2aebc16"
     }
   ]
 }
