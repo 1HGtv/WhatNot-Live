@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T00:31:33.723327+00:00",
+  "updated": "2026-09-06T00:36:03.476566+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -126,6 +126,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/123dbdc3-b7f6-434b-8674-dbd4851ee53f",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8xZmZiN2U2NS0wNzg3LTRiMWQtYjliMC0zOWE1ZDQwZjdjZTcuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=df1789895c6b9afb2db9f3d8fa19257f0702b9d1957f25982920d6c6d5aa152a"
+    },
+    {
+      "user": "dontbeaherobilly",
+      "title": "Metal Magnet Night!",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/27de6109-a64e-42bd-b41e-da43e718a091",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9lYWVjZDdiYS02Mzc1LTQ1MjMtYmJkZi1lYWI2ZDVjMzhkNGUuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=36bc246167e6484d0bdb3eaebd306792fe6861d63e2bc13f21e5ec2f0fac9d5f"
     }
   ]
 }
