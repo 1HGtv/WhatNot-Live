@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:03:04.690652+00:00",
+  "updated": "2026-09-06T18:03:53.662106+00:00",
   "lives": [
     {
       "user": "pokeparadisetcg",
@@ -56,6 +56,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/735e97ce-22f7-4bbb-b65d-4355ae30d10c",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8zNGFjY2U2MS00NjA1LTRlZmUtYjg1Ny01ZDE3OGIyN2M1NDIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=07b4a63632778338431eeb77535ced1cde17b25b4eb22760b50a86432d51ed11"
+    },
+    {
+      "user": "koalacowboy",
+      "title": "Very, Very, Very, Very Lucky Case Break!",
+      "type": "Breaks",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/c3b5d59e-6cfe-4796-a2af-13fb7c0263bf",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8yNjllOGNlMS03NDY1LTQ2MGYtYjU5Ny00NjMyYjgzMTlmNTAuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=9b7be0c61a892c890a860cd7d356b0f1c3eb41177f371ca1131c6833f44db999"
     }
   ]
 }
