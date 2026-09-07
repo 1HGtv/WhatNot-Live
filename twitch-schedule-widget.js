@@ -2,6 +2,8 @@
   var DATA_URL = "https://1hgtv.github.io/WhatNot-Live/twitch_schedule.json?t=" + Date.now();
   var listEl = document.getElementById("tw-sched-list");
   var statusEl = document.getElementById("tw-sched-status");
+  var avatarEl = document.getElementById("tw-sched-avatar");
+  var nameEl = document.getElementById("tw-sched-name");
   if (!listEl) return;
 
   function formatWhen(iso) {
@@ -22,12 +24,20 @@
   }
 
   function card(show) {
+    var cadence = show.cadence
+      ? '<div class="tws-cadence">' + show.cadence + "</div>"
+      : "";
+    var whenLabel = show.isRecurring ? "Next: " + formatWhen(show.startTime) : formatWhen(show.startTime);
     var cat = show.category ? '<div class="tws-cat">' + show.category + "</div>" : "";
     return (
       '<a class="tws-card" href="' + (show.url || "https://www.twitch.tv/1HGtv") + '" target="_top" rel="noopener noreferrer">' +
         '<div class="tws-body">' +
-          '<div class="tws-badge">Twitch</div>' +
-          '<div class="tws-when">' + formatWhen(show.startTime) + "</div>" +
+          '<div class="tws-top">' +
+            '<span class="tws-badge">Twitch</span>' +
+            (show.isRecurring ? '<span class="tws-weekly">Weekly</span>' : "") +
+          "</div>" +
+          '<div class="tws-when">' + whenLabel + "</div>" +
+          cadence +
           "<h3>" + (show.title || "Stream") + "</h3>" +
           cat +
           '<div class="tws-cta">Open Twitch</div>' +
@@ -42,6 +52,13 @@
       return r.json();
     })
     .then(function (data) {
+      if (avatarEl && data.avatar) {
+        avatarEl.src = data.avatar;
+        avatarEl.style.display = "block";
+      }
+      if (nameEl) {
+        nameEl.textContent = data.username ? data.username : "1HGtv";
+      }
       var shows = Array.isArray(data.shows) ? data.shows : [];
       if (!shows.length) {
         listEl.innerHTML =
