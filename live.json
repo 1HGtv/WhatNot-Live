@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T15:06:31.534457+00:00",
+  "updated": "2026-09-07T15:06:34.534963+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -28,6 +28,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/a7e13507-c50c-4d18-98d2-214c1ebaa550",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9kYmEzZGMxNC1jYWQ1LTQ4NTItOThiMS1iOTU0ZGY1ODNiYTUuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=c0980b7e07803dcf9ea5003617d8c876edd71686a81dad3bbb9bf5421493fe91"
+    },
+    {
+      "user": "justanotherfailedstreamer",
+      "title": "Thick bundles ",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/a2c6800d-0083-4449-80cd-046544407bab",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9mZjczOWIwMC01NzgzLTQzNzMtYmE3ZS1lOGYyYTQwYzNlMGUuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=ea6755841f26856517ca814ce77e49ebdb1c7b56445e3757b08a576c96405ec0"
     }
   ]
 }
