@@ -9,10 +9,19 @@
     return GO_BASE + encodeURIComponent(url);
   }
 
-  function formatWhen(iso) {
-    if (!iso) return "Time TBA";
+  function formatWhen(raw) {
+    if (raw === null || raw === undefined || raw === "") return "Time TBA";
     try {
-      var d = new Date(iso);
+      var d;
+      if (typeof raw === "number") {
+        d = new Date(raw < 1e12 ? raw * 1000 : raw);
+      } else if (/^\d+(\.\d+)?$/.test(String(raw).trim())) {
+        var n = parseFloat(raw);
+        d = new Date(n < 1e12 ? n * 1000 : n);
+      } else {
+        d = new Date(raw);
+      }
+      if (isNaN(d.getTime())) return "Time TBA";
       return d.toLocaleString(undefined, {
         weekday: "short",
         month: "short",
@@ -21,7 +30,7 @@
         minute: "2-digit",
       });
     } catch (e) {
-      return iso;
+      return "Time TBA";
     }
   }
 
@@ -53,7 +62,7 @@
       var shows = Array.isArray(data.shows) ? data.shows : [];
       if (!shows.length) {
         listEl.innerHTML =
-          '<div class="wns-empty">No upcoming shows scheduled.<br>Check back soon.</div>';
+          '<div class="wns-empty">No upcoming shows right now.<br>Check back soon.</div>';
       } else {
         listEl.innerHTML = shows.map(card).join("");
       }
@@ -64,7 +73,6 @@
       }
     })
     .catch(function () {
-      listEl.innerHTML =
-        '<div class="wns-empty">Could not load schedule.<br><a href="https://1hgtv.github.io/WhatNot-Live/" target="_top" style="color:#fcba03">Open live board</a></div>';
+      listEl.innerHTML = '<div class="wns-empty">Could not load schedule.</div>';
     });
 })();
