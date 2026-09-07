@@ -3,6 +3,8 @@
   var GO_BASE = "https://1hgtv.github.io/WhatNot-Live/go.html?to=";
   var listEl = document.getElementById("wn-sched-list");
   var statusEl = document.getElementById("wn-sched-status");
+  var avatarEl = document.getElementById("wn-sched-avatar");
+  var nameEl = document.getElementById("wn-sched-name");
   if (!listEl) return;
 
   function exitUrl(url) {
@@ -59,6 +61,13 @@
       return r.json();
     })
     .then(function (data) {
+      if (avatarEl && data.avatar) {
+        avatarEl.src = data.avatar;
+        avatarEl.style.display = "block";
+      }
+      if (nameEl) {
+        nameEl.textContent = data.username ? data.username : "1hgtv";
+      }
       var shows = Array.isArray(data.shows) ? data.shows : [];
       if (!shows.length) {
         listEl.innerHTML =
