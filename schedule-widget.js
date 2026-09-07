@@ -38,19 +38,31 @@
 
   function card(show) {
     var live = String(show.status || "").toUpperCase() === "PLAYING";
+    var recurring = !!show.isRecurring;
     var badge = live ? "LIVE" : "Upcoming";
-    var img = show.thumbnail
-      ? '<img src="' + show.thumbnail + '" alt="" loading="lazy" onerror="this.style.display=\'none\'">'
+    var whenLabel = recurring
+      ? "Next: " + formatWhen(show.startTime)
+      : formatWhen(show.startTime);
+    var cadence = show.cadence
+      ? '<div class="wns-cadence">' + show.cadence + "</div>"
       : "";
+    var img = show.thumbnail
+      ? '<div class="wns-art"><img src="' + show.thumbnail + '" alt="" loading="lazy" onerror="this.parentNode.style.display=\'none\'"></div>'
+      : '<div class="wns-art wns-art-fallback"></div>';
+
     return (
       '<a class="wns-card' + (live ? " wns-live" : "") + '" href="' + exitUrl(show.url) + '" target="_top" rel="noopener noreferrer">' +
-        img +
         '<div class="wns-body">' +
-          '<div class="wns-badge">' + badge + "</div>" +
-          '<div class="wns-when">' + formatWhen(show.startTime) + "</div>" +
+          '<div class="wns-top">' +
+            '<span class="wns-badge">' + badge + "</span>" +
+            (recurring ? '<span class="wns-weekly">Weekly</span>' : "") +
+          "</div>" +
+          '<div class="wns-when">' + whenLabel + "</div>" +
+          cadence +
           "<h3>" + (show.title || "Show") + "</h3>" +
           '<div class="wns-cta">' + (live ? "Watch Live" : "Open Show") + "</div>" +
         "</div>" +
+        img +
       "</a>"
     );
   }
