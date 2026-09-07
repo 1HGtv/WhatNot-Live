@@ -27,8 +27,14 @@
     var cadence = show.cadence
       ? '<div class="tws-cadence">' + show.cadence + "</div>"
       : "";
-    var whenLabel = show.isRecurring ? "Next: " + formatWhen(show.startTime) : formatWhen(show.startTime);
+    var whenLabel = show.isRecurring
+      ? "Next: " + formatWhen(show.startTime)
+      : formatWhen(show.startTime);
     var cat = show.category ? '<div class="tws-cat">' + show.category + "</div>" : "";
+    var img = show.image
+      ? '<div class="tws-art"><img src="' + show.image + '" alt="" loading="lazy" onerror="this.parentNode.style.display=\'none\'"></div>'
+      : '<div class="tws-art tws-art-fallback"></div>';
+
     return (
       '<a class="tws-card" href="' + (show.url || "https://www.twitch.tv/1HGtv") + '" target="_top" rel="noopener noreferrer">' +
         '<div class="tws-body">' +
@@ -42,6 +48,7 @@
           cat +
           '<div class="tws-cta">Open Twitch</div>' +
         "</div>" +
+        img +
       "</a>"
     );
   }
