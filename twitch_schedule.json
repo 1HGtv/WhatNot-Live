@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T03:50:55.232363+00:00",
+  "updated": "2026-09-07T04:13:41.943072+00:00",
   "username": "1HGtv",
   "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2b22cc9-6651-4086-b1c2-622868d3af4d-profile_image-300x300.png",
   "shows": [
@@ -7,6 +7,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZjc5NDZmMS1hNDkxLTRjOTItOWE2NS1hNDIwMmU1NTY4MmYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozN30=",
       "title": "ENERGY BREAKS ON WHATNOT!",
       "category": "Pok\u00e9mon Trading Card Game",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-285x380.jpg",
       "startTime": "2026-09-07T14:30:00+00:00",
       "endTime": "2030-07-01T18:30:00+00:00",
       "isRecurring": true,
@@ -17,6 +18,7 @@
       "id": "eyJzZWdtZW50SUQiOiIxZjc5NDZmMS1hNDkxLTRjOTItOWE2NS1hNDIwMmU1NTY4MmYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0NX0=",
       "title": "ENERGY BREAKS ON WHATNOT!",
       "category": "Pok\u00e9mon Trading Card Game",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-285x380.jpg",
       "startTime": "2026-11-02T15:30:00+00:00",
       "endTime": "2030-03-04T19:30:00+00:00",
       "isRecurring": true,
