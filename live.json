@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T00:01:36.381054+00:00",
+  "updated": "2026-09-08T00:01:52.124630+00:00",
   "lives": [
     {
       "user": "weezyworld",
@@ -175,6 +175,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/7230339e-f1a5-4c4e-a0e0-c2fde91458f9",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84YThhNTMyZi0yODEzLTQyY2UtYjMxMi1lODY0OTU0ZmM5YTIuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=6160da5113fc5cb5cec2a538b379772c57dac3f4769fb5b1a1686aaf3527e13d"
+    },
+    {
+      "user": "whatnotsellers",
+      "title": "3 Keys to Your First 30 Days \ud83d\udcc8",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/481aeafc-227d-4a5e-9faa-6da46dd2479a",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9jNGYzYjQ2ZC1mYzA5LTRjOGEtODY0Yy05YmJiYWI3ZmUyMzEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=9b8c1a0dafe3f31811ba59596d1ffb4293b732101738618ba90615494a34bad0"
     }
   ]
 }
