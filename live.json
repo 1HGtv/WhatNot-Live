@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T15:47:14.779942+00:00",
+  "updated": "2026-09-08T16:02:32.102491+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -70,6 +70,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/ae38dce5-d543-440c-94e1-d683c375812e",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9kZDlmMTMzZC03NmI4LTRlYjItYWFlMC1kMDAxOTcyODQyOGIuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=657a470aeab55a2cf0b0989b124b5cd367f52275ad0849cabb6e840d9c0a80d0"
+    },
+    {
+      "user": "beezys_basement",
+      "title": "Terrible Decision Tuesday!",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/cc251c0f-edc4-4d29-adf6-d7ac13ddb5d0",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9iODZkM2Q1MC00YmQ1LTRmZDItOTg0Yi01NTc1NTJiMDJjM2UuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=2aa6b326510cc9af83e94b1c562949ef7abc3e214eb3b3b888268dca291c1f87"
     }
   ]
 }
