@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T23:52:29.903819+00:00",
+  "updated": "2026-09-08T00:22:33.722141+00:00",
   "username": "1HGtv",
   "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2b22cc9-6651-4086-b1c2-622868d3af4d-profile_image-300x300.png",
   "shows": [
@@ -9,9 +9,9 @@
       "category": "Pok\u00e9mon Trading Card Game",
       "image": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-285x380.jpg",
       "startTime": "2026-09-14T14:30:00+00:00",
-      "endTime": "2030-08-26T18:30:00+00:00",
+      "endTime": "2030-07-08T18:30:00+00:00",
       "isRecurring": true,
-      "cadence": "Weekly until 08/26/30",
+      "cadence": "Weekly until 07/08/30",
       "url": "https://www.twitch.tv/1HGtv"
     },
     {
@@ -20,9 +20,9 @@
       "category": "Pok\u00e9mon Trading Card Game",
       "image": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-285x380.jpg",
       "startTime": "2026-11-02T15:30:00+00:00",
-      "endTime": "2030-02-25T19:30:00+00:00",
+      "endTime": "2030-03-04T19:30:00+00:00",
       "isRecurring": true,
-      "cadence": "Weekly until 02/25/30",
+      "cadence": "Weekly until 03/04/30",
       "url": "https://www.twitch.tv/1HGtv"
     }
   ]
