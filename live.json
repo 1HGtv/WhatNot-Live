@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T15:28:56.758962+00:00",
+  "updated": "2026-09-08T15:30:49.037234+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -56,6 +56,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/65c1fb7a-d362-41d8-81fc-3e0af3b970ac",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy80NGQ5YTcwMC05YTdmLTRkMmQtOTc3Yy1jNzQ3ZWY2MDVhMTYuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=60ac6a05f401df5f0be516b27964cb2f6c7b0c8d68dc5e6204eef95b27722a19"
+    },
+    {
+      "user": "veefriends",
+      "title": "\ud83d\udca5 COMICS LIVE W/ CORSO \ud83d\udca5",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/5552cf66-71fc-4bb7-af4a-cb2d4fd02676",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9kZTRkNGVmOS0yYWVhLTRmMTMtYTRiZS1jYTA2MjY4ZDZiZjAuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=290ab0bef6dfc9ecaa57b9cc4d78d39cb61035d9c354e174a1e6618e5e36c5c4"
     }
   ]
 }
