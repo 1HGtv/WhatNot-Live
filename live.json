@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T01:22:11.022901+00:00",
+  "updated": "2026-09-08T01:22:13.187041+00:00",
   "lives": [
     {
       "user": "pokeparadisetcg",
@@ -154,6 +154,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/5fa7a6d2-cb51-4cb4-ac71-be080ed11901",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9lYTY2ZmI5Yy1iMGIzLTRiMGMtOTBiNi0xNTUyOTU1NjM3M2IuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=165a059ac28e404612143007f788c1dd45812a08ed68ba55cde31c41f5db7cd4"
+    },
+    {
+      "user": "jersrcardvault",
+      "title": "Pop-up Grails only!",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/4571e2e1-b808-478c-a7be-11ed9063697f",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9iOWZlOGFkNy0wNzIwLTQwNTUtOGZlNC03MWE3ZWFkOTUzZmEuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=b1e39f973534e875858253b99f3e3f8ed3c25996b47c423cc0d2337372f16e5b"
     }
   ]
 }
