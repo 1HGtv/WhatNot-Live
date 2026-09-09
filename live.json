@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T18:38:32.876402+00:00",
+  "updated": "2026-09-09T18:40:05.328532+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -84,6 +84,13 @@
       "type": "Breaks",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/b7040f33-3ad1-4993-a9fe-99f3e58b06da",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy80MDQ4MDcyYy1hNDNkLTQ0ZDYtOTQxOC03ZjFkMjQ0MTc1NjQuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=5a8d45ccfe815230fdbaaf77246dbf9bc6ee4e003ad0969ccb8357dbf7e559d7"
+    },
+    {
+      "user": "ohayoshop",
+      "title": "GOOP GOOP!",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/5e24a231-3673-48fe-a3e6-502a67762d7c",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8yZGYzMzZmOC0xNmY1LTQ3ODgtYTc3My0xNjM1N2RjZWFmMTEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=0b313b857f8c8361d0a5a35ee96e2f0530a0bd48bdf03b30dd1f023754034e39"
     }
   ]
 }
