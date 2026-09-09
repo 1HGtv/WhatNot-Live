@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T02:35:46.260291+00:00",
+  "updated": "2026-09-09T02:35:48.014761+00:00",
   "lives": [
     {
       "user": "ohayoshop",
@@ -63,6 +63,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/710ecb08-7518-4d83-a947-9696324bb012",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9lMDk3NmE4MS0zZTI2LTRmYWQtOWE3Ny00NTgzMWY5M2NiZTguanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=781a53e81988794c4527fb55defba9fb8efe4e5c4dfc79d05bd1b3ff42ca8142"
+    },
+    {
+      "user": "loosepacks",
+      "title": "TEAM UP TUESDAYS w/ Flockas",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/d5b8c364-af5d-4c35-a993-19cb479337bd",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8zNzkxNGQ1NC1mYWVlLTRhZDItYTMyOS01MzUwM2Q5ZGI5ZDguanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=4485088f4805700d9ae9f3bac7e297bc6c19c4ac0dd960175395bd25c5ebba82"
     }
   ]
 }
