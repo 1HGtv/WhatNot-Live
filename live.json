@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T12:10:36.238994+00:00",
+  "updated": "2026-09-09T12:49:51.270553+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -49,6 +49,13 @@
       "type": "Singles",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/187bc838-31b3-4d17-a78a-2eca837c0abc",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9mMDg0OTUxZi0yOTZjLTQzNTAtOGU5Zi0wOWY3MjVjNDE4ZWYuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=2417bdcba84cb5efb460f563236b690aabb44fc4cf4278b8b596e62c6781ee14"
+    },
+    {
+      "user": "tea_cass82",
+      "title": "POP UP",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/1ab88c77-06af-4550-bfce-cac248bc1f10",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy85MDBiNjUwYy0zMTI0LTQ1M2QtOGUwNC03MGY0Mjk2OGQyYzAuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=96f88024d7c8c9c3a9bc2a5474ba69b57140b368d6331915a834eae87e24bd39"
     }
   ]
 }
