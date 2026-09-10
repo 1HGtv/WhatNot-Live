@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T03:11:22.908543+00:00",
+  "updated": "2026-09-10T03:11:30.288315+00:00",
   "lives": [
     {
       "user": "novatcg",
@@ -28,6 +28,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/a5297af0-3739-4e4a-be0b-cd74a1736ae4",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8yZmQ4NDA4OS04ZjMxLTQ1YzQtYTljOS0xYmVhNzBiMGY0NWQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=bc6d52f0869198163b25b8cc71e4a26e62c59d12421ff2d2fc80b56189f9f7ca"
+    },
+    {
+      "user": "spacenarwhalz",
+      "title": "\ud83d\udd25\ud83d\udc51THE KING\ud83d\udc51\ud83d\udd25",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/ba1a3cfa-278a-416a-a0cf-e649d68ce62e",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9mNDMwNTg1MC1hZmQ0LTRjZWMtOGIwNi1jYzFkODVjMzIxNTguanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=5d13883d564f370e04ba46171e539db73c36ea2892f3c41ba98035ac2b4909d8"
     }
   ]
 }
