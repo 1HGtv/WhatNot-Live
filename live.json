@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T21:06:12.646327+00:00",
+  "updated": "2026-09-10T21:07:39.172103+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -119,6 +119,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/3165cbb6-3ed7-4488-a1e8-2da86f6fe5d9",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9iMjI5MGI1YS0zOGM3LTQ0MmMtYjIwOS1hYTE3OTkwNDdkMDYuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=7c014a93584b2fc159b1d02fa4c294527afc7710a6be3aa27d7f657c50279e80"
+    },
+    {
+      "user": "outsidehits",
+      "title": "\ud83d\udd25 BOOKMARK ME! WE OUTSIDE \ud83d\udd25",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/cd077ed7-0e90-459c-a839-71046c7dc990",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9lNmZhYzgwNi03ZmYzLTRiOTctOWNkZS0yY2Q4ZjNhNjViOTUuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=ca38dde7dbbb9f1572ae8316efd97a5e1fa3f617956ce0a74d276b2fdcfec683"
     }
   ]
 }
