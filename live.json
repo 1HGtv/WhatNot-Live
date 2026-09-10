@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T23:31:56.287574+00:00",
+  "updated": "2026-09-10T23:32:44.580083+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -189,6 +189,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/62358f5a-0181-4347-8418-462b4d78c280",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84MmU0Y2VlNS02YmM5LTRkN2YtODEzZC1hMjhmNmVlMzNjMTYuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=343b2dcd85ec78b938c3733c068965ac54079f519d99575f0bde9bddb000a3f7"
+    },
+    {
+      "user": "kpoptarts",
+      "title": "Singles!",
+      "type": "Singles",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/5adf4301-e59e-4522-8754-5489ac7ac6a7",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzUzNDY4NDQzLzAzYjI4YjhhLWU1ZjUtNDg3Yi05YmM2LTE4OTdkNTQ2NWJjMC5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=5245f07b9dbbc5c639437746b43c45482563352e13e310c1232ba26893a85c93"
     }
   ]
 }
