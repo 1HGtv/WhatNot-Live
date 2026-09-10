@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T11:16:38.050050+00:00",
+  "updated": "2026-09-10T11:58:43.354200+00:00",
   "lives": [
     {
       "user": "pokeparadisetcg",
@@ -42,6 +42,13 @@
       "type": "Surprise Sets",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/65c53291-6f13-43b3-a770-22c4d5a53ab3",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84ZDA0ZDllMC1iODlhLTQ0M2QtYjE3My0yYTFmYzgwOGZhMmYuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=c3181a0461df6c71e19ff0ab7263aa58a89d5cfaee17f5cc05013029871b2c1b"
+    },
+    {
+      "user": "pokeparadisebreaks",
+      "title": "Raid",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/5d7bfedf-74d1-446f-932e-8d29117603a1",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzIxNDA3NzA2LzkyZDE2ZTQ2LWExMmUtNGU4Mi05MDRmLWIwNDFkOGUwODM5Zi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=8b67ec3c1c953b2eef478007823aace9a05bf1f2d21a837df1539849eaec8d94"
     }
   ]
 }
