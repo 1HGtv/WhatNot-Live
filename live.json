@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T03:11:44.591632+00:00",
+  "updated": "2026-09-10T03:11:46.106824+00:00",
   "lives": [
     {
       "user": "novatcg",
@@ -77,6 +77,13 @@
       "type": "Singles",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/9da25caf-b868-4280-b1df-db1b2faf942f",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9kZmQ5ZDU5Yy1iZDViLTQ5NjktYWMwOS0xMGU0NmVlM2E5MzQuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=cf02d3dac4ec26081d0218ffbe94d72986d8278e4e2d88a706be499299893b6f"
+    },
+    {
+      "user": "loosepacks",
+      "title": "Wednesday Night Vintage Rips w/ @Poke_AK47",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/44ccacb4-4dee-4051-bd9a-1d7690b07e42",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9lNDRhODRiZi05MjYzLTQ5OWEtODI1YS00NzFhYTRmYzI4YzUuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=a2a99c060cfd06a02ca4d21623b6af5c036830ead2884a8c3b82695891867867"
     }
   ]
 }
