@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T18:40:58.870571+00:00",
+  "updated": "2026-09-11T18:55:44.188589+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -70,6 +70,13 @@
       "type": "Singles",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/a9d6634a-7bd1-4b62-89ef-bf998cf17be6",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzEwNjcwNDEvYWJmNzNlY2EtYjM3NS00ZmUxLTk2MjktMzhmZjJkZGYzYjI0LmpwZWciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiA0MTQsICJoZWlnaHQiOiA2NDAsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=b58070df81574ca59531081e8fd696e281c62c6086a547a46560b6b9c3da8f16"
+    },
+    {
+      "user": "cardking47_tcg",
+      "title": "FRIDAY MORNING SURPRISES",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/f632543e-05d0-459d-916e-9525be580547",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9hZGU4NTU2Ni1lMTc3LTRkOWUtODMxNC1jODk4ZjMyMmM1NTEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=d62c0e4812c0cc624199534daaa952471886ba0b954647ec967b0c2cf5145119"
     }
   ]
 }
