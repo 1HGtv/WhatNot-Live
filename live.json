@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T22:13:42.809176+00:00",
+  "updated": "2026-09-11T22:26:13.989863+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -98,6 +98,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/fb2edf5f-bf20-4f13-8978-7d1fa053f1f8",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8xM2E0NzRhYS04MWY1LTRjYmYtODE5Yi0zZmQ1NmExMzMzOGEuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=7c7177c8168f4a77dfb15edc184077e13fb33c404c05fb83ef347aef89deda11"
+    },
+    {
+      "user": "tznsamurai",
+      "title": "TBD",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/283568f6-ed87-404e-8bb8-6149d449eefc",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9lYTY2ZmI5Yy1iMGIzLTRiMGMtOTBiNi0xNTUyOTU1NjM3M2IuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=165a059ac28e404612143007f788c1dd45812a08ed68ba55cde31c41f5db7cd4"
     }
   ]
 }
