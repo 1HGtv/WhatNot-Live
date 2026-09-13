@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T00:36:29.592174+00:00",
+  "updated": "2026-09-13T00:40:25.641651+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -133,6 +133,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/c43dbb71-6780-48e7-8fa9-364f801b35bb",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9hOTQzMzY2My01MTM5LTRhYzctODIyOS03NWMyOTE0NzI1MmEuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=efe182523bb60c81e47a320f2627d38dc96c6a8b4b0205bcc6e36c0faffcae3e"
+    },
+    {
+      "user": "dontbeaherobilly",
+      "title": "Saturday Night Rips",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/a5b7fe90-2cab-475a-b46d-af5eac1f4ea3",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy81NGNlMjI0Zi04YmRhLTQyMTEtOTUyMy0wODFhZDVmMzJhMWIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=ed293e980fd9a5eb95b69a6cc6479bcb4ac69f74ad444e32c9b4e1edd6e910cc"
     }
   ]
 }
