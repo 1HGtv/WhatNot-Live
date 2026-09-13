@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T20:32:46.211125+00:00",
+  "updated": "2026-09-13T20:33:05.959513+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -56,6 +56,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/8c9f741c-df61-4bb9-b9af-2cdbb3ccebda",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9jNmFkMjMxMy1kNTU2LTQ1NDEtOTQ1ZS00ZGEwMzQ1ZjViZGUuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=91ea419c15dfbdd1dcd2b3e05b4c50cb43a580fcf64f6563df748af5d4adc568"
+    },
+    {
+      "user": "chefkenlee",
+      "title": "$$$ Sundays",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/af065d36-753d-4af9-bf94-77ef13b8464a",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy80ZDRhYzdmNS03MzZmLTRhMjgtYjRhMy1iNjc2NTM2NmYzNjkuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=c52a73a5aa13aabde3c3246c0396edc15f6023f42b1b4674e279e0ca7be15d12"
     }
   ]
 }
