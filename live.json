@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T03:13:51.227375+00:00",
+  "updated": "2026-09-13T03:19:49.543685+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -119,6 +119,13 @@
       "type": "Breaks",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/de88dcd2-6617-45d7-b2eb-a691ba4cd07c",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84ZmEwNzUyZC03MmViLTQ2OGMtOTVmMi1kNTBiYjgzMmIzMDMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=2bdfb26130b0129b386b3a8fd5cb860226ec00d2b36ea95d90ad66cde2b588c7"
+    },
+    {
+      "user": "tznsamurai",
+      "title": "pop up art boards",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/184bcaba-aef9-4470-9cd4-5ff3907d1e5a",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8wYjFhMWYzNC02Nzc3LTQzYmQtOWFlNS0zZDYzY2Y5NmE5MTEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=46b96ccb167fee5bda741ed5d9eeb72f79d5c379b003a4cc36fea08aa2e44501"
     }
   ]
 }
