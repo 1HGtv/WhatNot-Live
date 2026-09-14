@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T11:46:14.379617+00:00",
+  "updated": "2026-09-14T12:01:46.605205+00:00",
   "lives": [
     {
       "user": "pokeparadisetcg",
@@ -42,6 +42,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/7dc411de-dca7-4f26-a9c4-a52553410074",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy82MmM5MDE3Zi1iNTUzLTRkMGMtOGJkYS1hMTg4MjNjZTcwZDAuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=090f3d25d17a20bbabe1770332abb52d66746486e608b8d4105f999800760670"
+    },
+    {
+      "user": "pokeparadisebreaks",
+      "title": "PokeparadiseTCG raid",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/52b2b908-456a-4a48-8457-9243f0d7ece6",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzIxNDA3NzA2LzkyZDE2ZTQ2LWExMmUtNGU4Mi05MDRmLWIwNDFkOGUwODM5Zi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=8b67ec3c1c953b2eef478007823aace9a05bf1f2d21a837df1539849eaec8d94"
     }
   ]
 }
