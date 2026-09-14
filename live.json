@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T22:27:24.083553+00:00",
+  "updated": "2026-09-14T22:34:03.038737+00:00",
   "lives": [
     {
       "user": "pokeparadisetcg",
@@ -133,6 +133,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/3436f96c-7a3e-40df-b470-8653c70ec79c",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy82NDZmNDgwYS1iNzJmLTQ5MGQtYmFiMC1iOGYzNDA3NmY0Y2YuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=0db1b39b7ba28422d54949a34ed37e0e0754339c77802539a060e7d8e9ac2428"
+    },
+    {
+      "user": "whatnotwarehouse",
+      "title": "MNF w/ the Mayor",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/f1815c26-3229-4169-977d-0893e33fbf80",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8xMGQwZjE3Ni03MGU0LTRmMmUtOWQ0OC0yMTE1MzY5NWRmYjEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=19d0a8f758d618cb93dccf41f889e8bb8ff2a6d4a31215dde13168198cd0093a"
     }
   ]
 }
