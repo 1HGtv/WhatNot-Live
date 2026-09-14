@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T02:11:02.263267+00:00",
+  "updated": "2026-09-14T02:17:37.456796+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -119,6 +119,13 @@
       "type": "Breaks",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/82294e72-e115-440a-b180-f374c667f240",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9lYWM2NjM3Mi00MWUwLTQ1NGUtOThmZi1mYzc0YTMxZjc1MmQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=420efa91d67628f91822708302cdb00d29a73e8f9e9d5975314841caf9124505"
+    },
+    {
+      "user": "waksshouse",
+      "title": "DESTINED RIVALS RTYH",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/aa05ef5d-99ef-4b3e-9c00-b1c765e732f1",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy81NjA2MmExMi1lNWUxLTRmNjItYTE1ZC1iNzMwMGU4M2NlOWMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=50fbe5a7dc309c88f12596d3235920fa8b9cc27ed5950914fbad36254ff12747"
     }
   ]
 }
