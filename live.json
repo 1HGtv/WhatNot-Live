@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T00:57:02.909360+00:00",
+  "updated": "2026-09-14T00:58:55.084373+00:00",
   "lives": [
     {
       "user": "krakenhits",
@@ -84,6 +84,13 @@
       "type": "Surprise Sets",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/bfea698b-7526-429f-aea1-4f0481fbfded",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8yMDJjMDZkOS1iODdkLTRkYjEtODg3My01NDUwYzFmNTU2ZjkuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=0886835b735736b7503f25a278af3bc2105ef8b8ebfa311c4510d30d7a82f0cb"
+    },
+    {
+      "user": "loosepacks",
+      "title": "Sunday Funday w/ Flockas",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/a3ede918-12df-4a6f-99c1-5ba8f631a203",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy82MDE4NGRhMi05ODA3LTQ3MjYtOGJjNS1hNjE3MDFhNzI3YzEuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=97be4252793c7399fcf4d973460d87f541a00d57fc4b45554ae740a69fb72c9c"
     }
   ]
 }
