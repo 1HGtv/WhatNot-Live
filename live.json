@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T19:01:56.793446+00:00",
+  "updated": "2026-09-15T19:21:20.049480+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -91,6 +91,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/de5852c4-7dfb-4692-ba55-fcd72cbdd1b4",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9kYmRjMTQxZC1jZjI5LTRhMWEtYTQ5Zi03NDZjMGM2ZmM0OGQuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=69b70f905e3b48deb91b3d2fddb4ab3b6dceec16bf3f4f7f8fb36002a5645a87"
+    },
+    {
+      "user": "ohayoshop",
+      "title": "MORNING GOOPS",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/b7c3cfd5-db0a-49c6-bb21-69f40425354b",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy83Y2RiZmUzMS00ZDVmLTQxODgtYTAzYS1kMmY1MzdjODg3MjguanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=8adfd8140b4983980bd2930556c750afe73cfd1c13dadd817a64a07cb4295fed"
     }
   ]
 }
