@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T18:06:24.849889+00:00",
+  "updated": "2026-09-15T18:07:10.092121+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -84,6 +84,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/1333e475-8999-4e58-be81-50d9a069fd33",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9mOTE0YTVlYy03NzM1LTRiYTItYWM2NS03NGU5Y2EyZDFkZTkuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=875dbf4a10e492dd6d5b760bae6d6e0635baf172d03756047557d21867b2671a"
+    },
+    {
+      "user": "marvinh777",
+      "title": "Pop Up",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/31252ea6-f01e-417d-a92b-264d7d797e31",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzUyNDc4MTg4LzI4M2IwNzQyLTY2NGQtNGEwMS05OTkzLWM0OTY5MmNmYjdmMy5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=d52f84f4a14f5b0a6c4a03b54578f1f66f957227c95a4278818dcbabe927c03e"
     }
   ]
 }
