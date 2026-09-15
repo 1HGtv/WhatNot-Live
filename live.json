@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T22:02:02.691826+00:00",
+  "updated": "2026-09-15T22:06:32.813314+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -105,6 +105,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/6556286c-6a62-4761-88d7-c6cc1f6f582e",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8wYTI3OTFjNy1lODNlLTQyYmUtYTViNC1kN2Q1MWUwMDY0ZTcuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=0ba80c6f1b1eda179c81f272288a6e48623a105a0d926097f5dbdceb2694c998"
+    },
+    {
+      "user": "spacenarwhalz",
+      "title": "\ud83d\udc3b\ud83d\udc8e\u26a1DIAMONDS & RESERVES\ud83d\udc3b\ud83d\udc8e\u26a1",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/72d059ef-6b58-44f1-96ee-22b3d4a812df",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy80MjViYTE0YS0yYTI3LTRlZDItOTk1ZS1mNGU2OTI2ZmE1MGEuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=f5c98012d9e52335c26ef0a5e8828ec3e9b7562bed67db42703b083874da956e"
     }
   ]
 }
