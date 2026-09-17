@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T17:01:57.517896+00:00",
+  "updated": "2026-09-17T17:06:49.064399+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -91,6 +91,13 @@
       "type": "Breaks",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/630ce023-9d4f-47fa-92ff-e5a3713d1a68",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8wMjQ4MmUyYi03NzI4LTRlZDgtOGMxNS01MmI0YjIzNzVmYWQuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=97f236d43dea065b2ce653e1281f32a2b5d1e4bd662b5fc60c88ec543f1086ef"
+    },
+    {
+      "user": "veefriends",
+      "title": "\ud83d\udd25 BURN ISLAND BANTER \ud83d\udd25",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/aca0a438-4ee8-48c1-b9f9-8fc0e2ea69c1",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84M2EyOGJmNS01YzA2LTRhMGEtOTA4Mi1lNjk5ZmM0ODlmMGIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=0b20a8d01ed5a4359ec5c61ab77d6f98623925cb85f71156f83b0d7ead4bd1be"
     }
   ]
 }
