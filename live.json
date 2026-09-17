@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T14:46:06.307061+00:00",
+  "updated": "2026-09-17T14:46:27.887749+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -77,6 +77,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/75fe7f35-35c7-4b1b-be98-f30510775329",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzU5NjE2NS82Y2U2ZTkwMy00NWI2LTQ2ZmYtODIzMy0zYmI2OTdjNDVhZDkuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=7ac7264fed700444df1015bd466d19cd091518776cf580baf9db6de7bb9571f3"
+    },
+    {
+      "user": "veefriends",
+      "title": "\ud83c\udf1f POP UP & RAID \ud83c\udf1f",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/c6527488-46a1-4ddd-b4d2-c04a860e4ebd",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy85YzUzNDQxMy02ODEzLTRiY2YtYTZkNi04NzM4ZTQ0MWQ4NmQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=823e4760ab3bec6576fd1ed3a8077e92cb4be5fd448555e8800bb2fc9f474e4f"
     }
   ]
 }
