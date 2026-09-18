@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T00:08:38.431391+00:00",
+  "updated": "2026-09-18T00:12:22.823058+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -105,6 +105,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/023b156d-e605-4121-ad70-5c8b0ceaae2d",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy81ZTUyMmFmZS02OWUxLTQ1OTMtYjg5Zi0xN2MyNzZjMzVkMmQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=bd2baacc81bffa1ec2285bba9a6e6d5a5f40983c6dca1fd54b9c7eccde5dfb41"
+    },
+    {
+      "user": "ponycollects",
+      "title": "Lights. Camera. Pokemon.",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/00adb2d8-3624-4571-ab5b-ec5029fc9d4c",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy82MGU3MzlmZC1jMWUxLTQxZjUtOGZhMC05ODA4MjEwNmFlMjguanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=a36b71d517aa78b5231368491b6d62504f1b4e854db2f33f511380d5fbee79d2"
     }
   ]
 }
