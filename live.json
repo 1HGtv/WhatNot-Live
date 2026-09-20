@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T20:31:07.255870+00:00",
+  "updated": "2026-09-20T20:32:16.365171+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -91,6 +91,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/a3a6f7a3-0007-497c-8d67-3468991f38cd",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy82NDg0Njc0OC04M2ZmLTQxM2YtODgwOC1hMmM0ZWFhMzU5Y2UuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=83421ae8849de2f63fdce0049d2d27440a37a6720c9ef377386729c77031b962"
+    },
+    {
+      "user": "chefkenlee",
+      "title": "$1 Start Everything no Thumbbait",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/c016ccb6-313b-4307-84cb-16002bf144b7",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9lYTZhYzZkYi01ODc1LTQzODEtYTcwNC0wMmQxNmUzMzZhOTguanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=eb6cabd8ee487b72080da8afcc6430788c639cf737613f481d83ee139c94a898"
     }
   ]
 }
