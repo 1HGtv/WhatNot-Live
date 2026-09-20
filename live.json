@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T17:24:37.971455+00:00",
+  "updated": "2026-09-20T18:03:05.478867+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -63,6 +63,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/3f5e13ed-3b4c-4c4b-89ae-2ae5d7de340b",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9mNmMwZjgxMi1kNjEzLTRkNjktYTg3ZS0wZGVhN2U2MmU3M2EuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=d8b635ca66003e230a4530b131f5a4d794acf2553606b2fa3891e9a54da710fa"
+    },
+    {
+      "user": "loosepacks",
+      "title": "PokeBall Sunday w/ @Poke_AK47",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/54531d0b-7a75-4496-b483-22c29a9fc67b",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy83MzUyNWMyMS0zYjdkLTQ4NTYtYmFmYi05YTAwM2U3OGFjODUuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=21b716c6fc2ada4322d0db2e99b20b0c5b40ea302afff4eb015a61f85a682268"
     }
   ]
 }
