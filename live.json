@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T19:33:33.540638+00:00",
+  "updated": "2026-09-21T19:40:11.514380+00:00",
   "lives": [
     {
       "user": "pokeparadisetcg",
@@ -70,6 +70,13 @@
       "type": "Singles",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/15ee1a1d-7f6b-44fd-970e-4cf4f77e1acb",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84NzAyYzcxMi01YWE1LTRlNTEtOWRmMS0zYzNmMjY0NTc2NDAuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=bd9f1caad6f30120c1c2f28046e8721c4ab655ccb1472e14ffd6576f6efd137d"
+    },
+    {
+      "user": "marvinh777",
+      "title": "Pop-up show",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/57db24af-4925-48be-b72e-3bfaf8a711d8",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9hZmExOWI4NS02OGNmLTQ1YTMtODg4Ni01MzVmMWNlYTkzNjguanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=a7b63a5de457f52532d16d73cc5693bd5f95dfc7c9b054c2aaf9483a93cb5681"
     }
   ]
 }
