@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T01:36:25.787201+00:00",
+  "updated": "2026-09-21T01:51:27.668674+00:00",
   "username": "1hgtv",
   "avatar": "https://images.whatnot.com/fit-in/200x200/filters:format(webp)/users/15477137/93ba33d0-fa54-44ac-af1b-11825e6f356f.jpeg",
   "shows": [
@@ -22,28 +22,6 @@
       "user": "1hgtv",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9lMDdlNmM4Zi03Nzc2LTRmODYtOWIyMy1jMDZlNWEyOWFhNzAuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=035735feb32f99e25ebef431db5e5c54bb86f7aa5c0db5f040782b038527c516",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2F5546e715-e105-4e8c-a51e-18358734fe03",
-      "isRecurring": false,
-      "cadence": ""
-    },
-    {
-      "id": "d2fe509b-f9ac-4de4-ba65-67eeeb105d9a",
-      "title": "VETERAN'S DAY TBD",
-      "status": "CREATED",
-      "startTime": 1794002400000.0,
-      "user": "1hgtv",
-      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9jZTFjOTM1YS01ZGVlLTQ2ZDktYmQ1Zi03ZmFlZThmZmE4MzUucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=f504d943ba656a3685d6b456802eb91843ee5aa558ec88ac8cc203b0989e5c5b",
-      "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2Fd2fe509b-f9ac-4de4-ba65-67eeeb105d9a",
-      "isRecurring": false,
-      "cadence": ""
-    },
-    {
-      "id": "577671d6-c39d-4ef5-b284-9a35505b49bb",
-      "title": "LEFTOVERS WHEEL",
-      "status": "CREATED",
-      "startTime": 1795903200000.0,
-      "user": "1hgtv",
-      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9mMWVjN2JjNS1kZTk5LTRiYTUtOTFhYi0zMThlMzkzMDBkMjMucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=442f1958952279ebb509c373240884f4cf895bfff671aa8ace052e523e90ad85",
-      "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2F577671d6-c39d-4ef5-b284-9a35505b49bb",
       "isRecurring": false,
       "cadence": ""
     },
