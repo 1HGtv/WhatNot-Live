@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T02:51:35.832258+00:00",
+  "updated": "2026-09-21T03:06:38.068964+00:00",
   "username": "1hgtv",
   "avatar": "https://images.whatnot.com/fit-in/200x200/filters:format(webp)/users/15477137/93ba33d0-fa54-44ac-af1b-11825e6f356f.jpeg",
   "shows": [
@@ -12,13 +12,13 @@
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8zODk4MTRjZi05ZGFlLTQ0NDQtYmU4MS0xNDkyN2M0ZTA5OGYucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=3561019367a863c37ccee05f804e85f5591733c2a8017b489e1b6361f7c88aeb",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2F02bee034-8bb9-40ed-b994-550204fc950a",
       "isRecurring": true,
-      "cadence": "Weekly until 01/25/27"
+      "cadence": "Weekly until 02/22/27"
     },
     {
       "id": "5546e715-e105-4e8c-a51e-18358734fe03",
       "title": "Energy Breaks & Vibes",
       "status": "CREATED",
-      "startTime": 1790380740000.0,
+      "startTime": 1795827540000.0,
       "user": "1hgtv",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9lMDdlNmM4Zi03Nzc2LTRmODYtOWIyMy1jMDZlNWEyOWFhNzAuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=035735feb32f99e25ebef431db5e5c54bb86f7aa5c0db5f040782b038527c516",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2F5546e715-e105-4e8c-a51e-18358734fe03",
@@ -44,6 +44,50 @@
       "user": "1hgtv",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy82NDM4YTczYS0zMWY3LTQ2NzAtOWM3ZC0zMWI4OTg5YjAyZDMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=7f682bc7627a75191cb92c79917ea1ae982d0a8d7fceafd6de513ef2ecba2868",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2F2734a69f-f26c-4f6f-9d9c-fb75550bb310",
+      "isRecurring": false,
+      "cadence": ""
+    },
+    {
+      "id": "9bce9f3c-f19c-4936-b434-9cb8d56caebd",
+      "title": "VALENTINE'S DAY TBD",
+      "status": "CREATED",
+      "startTime": 1802134800000.0,
+      "user": "1hgtv",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8zZDlmYTMwZS0wYTQ5LTRkMDEtOGRkNC1mZWI2ZmZjZGZjNjMucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=4e31dcc89d5c85af45b1d3cc0f469f6edcf48cec1634cc8d820abcb846eb94af",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2F9bce9f3c-f19c-4936-b434-9cb8d56caebd",
+      "isRecurring": false,
+      "cadence": ""
+    },
+    {
+      "id": "a7a4a79a-b13f-48e3-a672-de5a6c1c6610",
+      "title": "PRE-SEASON GAME 1 | Pok\u00e9mon Singles",
+      "status": "CREATED",
+      "startTime": 1803074400000.0,
+      "user": "1hgtv",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy80ODNmYTFjZS01NGFiLTRhYmEtODQ5Yy0wMDAyMDgxNjRmYWMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=c97f8cd927303fdbcef0318fe97979d17d7a1c018e5167329203af4a05c5e07e",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2Fa7a4a79a-b13f-48e3-a672-de5a6c1c6610",
+      "isRecurring": false,
+      "cadence": ""
+    },
+    {
+      "id": "2696c877-4d7c-4b46-9258-a829407b2b1b",
+      "title": "PRE-SEASON GAME 2 | Pok\u00e9mon Singles",
+      "status": "CREATED",
+      "startTime": 1803686340000.0,
+      "user": "1hgtv",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84NDQ4ZmEzOC04Yjc1LTRmZmEtYjAxNS0wMTI3MTJiYTVkYWMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=79eee63d53e85b4973f620ea18fe5c7ed6521d01ac0c4a5acc115432eb4f914e",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2F2696c877-4d7c-4b46-9258-a829407b2b1b",
+      "isRecurring": false,
+      "cadence": ""
+    },
+    {
+      "id": "8df90de1-3248-445e-a291-155cd4efb298",
+      "title": "PRE-SEASON GAME 3 | Pok\u00e9mon Singles",
+      "status": "CREATED",
+      "startTime": 1804291140000.0,
+      "user": "1hgtv",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9iNzZlODQ2ZC1mZDM3LTRjZmItOGM3MS03ZWI4ZmRmOGQ0OWEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=d7a2944bd29c75f05fe496d81f50bfe5b1eee33a9572420f6d94265f727d1afb",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2F8df90de1-3248-445e-a291-155cd4efb298",
       "isRecurring": false,
       "cadence": ""
     }
