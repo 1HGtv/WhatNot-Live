@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T23:30:46.711359+00:00",
+  "updated": "2026-09-21T23:32:38.155519+00:00",
   "lives": [
     {
       "user": "pokeparadisetcg",
@@ -98,6 +98,13 @@
       "type": "Singles",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/03c8a671-d746-47de-ba06-0d0a3afe7276",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzUzNDY4NDQzLzAzYjI4YjhhLWU1ZjUtNDg3Yi05YmM2LTE4OTdkNTQ2NWJjMC5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=5245f07b9dbbc5c639437746b43c45482563352e13e310c1232ba26893a85c93"
+    },
+    {
+      "user": "bleechcards",
+      "title": "NEW SET",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/6c86810e-cf64-43ff-a71a-f056c1167ab8",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy85YzQ1MjViMy04YjZhLTQ4ZTAtYjFlYS1hNmQ2OGRhNmFjZWMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=d77bea15ba110b7c5b6deb442c28b92b492ba5ff7422b4276dc113b89ec5144f"
     }
   ]
 }
