@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T01:41:21.067874+00:00",
+  "updated": "2026-09-29T01:41:25.510669+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -14,6 +14,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/e72c4c3e-6500-40f0-b3e8-a1cc1400e1b4",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9kOGE2MzA0OC0zMTNhLTQ3MDktYTA4ZC1mZjdhODAyOWNjMTcuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=c70798c18d6a1a45dd31ec9562bee9d06bdb0d1c115faad0c9effd2bb7d18ff5"
+    },
+    {
+      "user": "eskee_knows_vinyl",
+      "title": "JAZZ Show \ud83c\udfb7\ud83c\udfba Shop/Mystery Bin Loaded \ud83e\udd41",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/2ac0d7d6-fe13-41a0-84e0-519635ab69d5",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9kMzZlMmViNy1mNzM2LTRmNTEtOTFmMy00OTRjYWU0NWI4NTMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=346b57f902cf71679b6d1e26ec0a24852990b6fe488aaf5e6f6e6dbd5921c289"
     }
   ]
 }
