@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T02:21:06.268363+00:00",
+  "updated": "2026-09-29T02:22:22.777945+00:00",
   "lives": [
     {
       "user": "eskee_knows_vinyl",
@@ -161,6 +161,13 @@
       "type": "Show",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/743cd3c4-1d87-4e7a-b2ae-2c6b5d49036a",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8wYjFhMWYzNC02Nzc3LTQzYmQtOWFlNS0zZDYzY2Y5NmE5MTEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=46b96ccb167fee5bda741ed5d9eeb72f79d5c379b003a4cc36fea08aa2e44501"
+    },
+    {
+      "user": "marvinh777",
+      "title": "Pack Rips, Slabs, Claims.",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/0468d28f-6d66-47c8-9791-ee88c4e47703",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy85NzQwMTA1Zi1lNGQ0LTQzODEtOWU5Ny0wOTJmYTY4NTZlNzIuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=ada1bd8634938adc030ed4d4acb776797689e2cf5773ae5c6590c6ae3c60e4c4"
     }
   ]
 }
