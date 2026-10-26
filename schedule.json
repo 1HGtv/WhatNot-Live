@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T14:45:37.668494+00:00",
+  "updated": "2026-10-26T15:00:39.697281+00:00",
   "username": "1hgtv",
   "avatar": "https://images.whatnot.com/fit-in/200x200/filters:format(webp)/users/15477137/93ba33d0-fa54-44ac-af1b-11825e6f356f.jpeg",
   "shows": [
@@ -88,6 +88,17 @@
       "user": "1hgtv",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9iNzZlODQ2ZC1mZDM3LTRjZmItOGM3MS03ZWI4ZmRmOGQ0OWEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=d7a2944bd29c75f05fe496d81f50bfe5b1eee33a9572420f6d94265f727d1afb",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2F8df90de1-3248-445e-a291-155cd4efb298",
+      "isRecurring": false,
+      "cadence": ""
+    },
+    {
+      "id": "d3057a2c-6a8b-43bf-bcb5-ae83a1142d55",
+      "title": "ST PATRICKS DAY TBD",
+      "status": "CREATED",
+      "startTime": 1804813140000.0,
+      "user": "1hgtv",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84NDYxODk5OC03NmQyLTRlY2UtYTdmMC00YmZiOGQxNjFhZTQucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=537013cf44007173f9e67c904d204e8025ec0e7964d81a2b3861ad832e577dff",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2Fd3057a2c-6a8b-43bf-bcb5-ae83a1142d55",
       "isRecurring": false,
       "cadence": ""
     }
