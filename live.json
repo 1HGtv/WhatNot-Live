@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T23:24:28.023085+00:00",
+  "updated": "2026-11-08T23:29:04.142589+00:00",
   "lives": [
     {
       "user": "woosleys",
@@ -112,6 +112,13 @@
       "type": "Singles",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/f9f4626a-0b37-4199-b149-8e6c1c34d90e",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9iYThjYzhlMC1hMjNiLTQxMjMtODE2Mi0xZDQ0ZTI4NzhjODEuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=0a49041988386cb046aea86071c572aa43440649e488d110029be63c6533f5e6"
+    },
+    {
+      "user": "spacenarwhalz",
+      "title": "\u26a1\ufe0f\ud83d\udc3bFIREWORKS EVERYWHERE\ud83c\udfce\ufe0f\u26a1\ufe0f",
+      "type": "Show",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A//www.whatnot.com/live/aed17c27-8ac2-4f32-95b6-3edc3ff4e1a0",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy80MDA4MjFkNC1mZjRjLTQ1YjAtYTIxMC1mMmNmZjMyNTczNmIuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDQxNCwgImhlaWdodCI6IDY0MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=0e7eb1b4dad694da421bcb6e6c07435b79980c91fda85a46b09c7d6a3720d99d"
     }
   ]
 }
