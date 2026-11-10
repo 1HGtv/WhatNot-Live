@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T02:34:40.375788+00:00",
+  "updated": "2026-11-10T02:49:42.355380+00:00",
   "username": "1hgtv",
   "avatar": "https://images.whatnot.com/fit-in/200x200/filters:format(webp)/users/15477137/93ba33d0-fa54-44ac-af1b-11825e6f356f.jpeg",
   "shows": [
@@ -110,6 +110,17 @@
       "user": "1hgtv",
       "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9iNzZlODQ2ZC1mZDM3LTRjZmItOGM3MS03ZWI4ZmRmOGQ0OWEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=d7a2944bd29c75f05fe496d81f50bfe5b1eee33a9572420f6d94265f727d1afb",
       "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2F8fe31d9a-50c3-4585-96ed-d359ef5bb5d2",
+      "isRecurring": false,
+      "cadence": ""
+    },
+    {
+      "id": "581f054a-c0ce-4e84-b08f-d6d6df821eed",
+      "title": "PRE-SEASON GAME 5 | Pok\u00e9mon Singles",
+      "status": "CREATED",
+      "startTime": 1805500740000.0,
+      "user": "1hgtv",
+      "thumbnail": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9iNzZlODQ2ZC1mZDM3LTRjZmItOGM3MS03ZWI4ZmRmOGQ0OWEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNDE0LCAiaGVpZ2h0IjogNjQwLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=d7a2944bd29c75f05fe496d81f50bfe5b1eee33a9572420f6d94265f727d1afb",
+      "url": "https://whatnot.pxf.io/L054y3?u=https%3A%2F%2Fwww.whatnot.com%2Flive%2F581f054a-c0ce-4e84-b08f-d6d6df821eed",
       "isRecurring": false,
       "cadence": ""
     }
