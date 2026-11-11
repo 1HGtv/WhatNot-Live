@@ -1,28 +1,94 @@
 {
-  "updated": "2026-11-11T09:30:16.118297+00:00",
+  "updated": "2026-11-11T10:01:32.246290+00:00",
   "username": "1HGtv",
   "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2b22cc9-6651-4086-b1c2-622868d3af4d-profile_image-300x300.png",
   "shows": [
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZjc5NDZmMS1hNDkxLTRjOTItOWE2NS1hNDIwMmU1NTY4MmYiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
-      "title": "ENERGY BREAKS ON WHATNOT!",
-      "category": "Pok\u00e9mon Trading Card Game",
-      "image": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-285x380.jpg",
-      "startTime": "2026-11-16T15:30:00+00:00",
-      "endTime": "2030-03-04T19:30:00+00:00",
+      "id": "eyJzZWdtZW50SUQiOiI0ZDU3NTBkNi1iYTdiLTRmMmQtODU3OS02OWU0MGQxZWM3MTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
+      "title": "Extract or Die Trying",
+      "category": "ARC Raiders",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/464339927-285x380.jpg",
+      "startTime": "2026-11-13T03:00:00+00:00",
+      "endTime": "2027-03-12T07:00:00+00:00",
       "isRecurring": true,
-      "cadence": "Weekly until 03/04/30",
+      "cadence": "Weekly until 03/12/27",
       "url": "https://www.twitch.tv/1HGtv"
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiIxZjc5NDZmMS1hNDkxLTRjOTItOWE2NS1hNDIwMmU1NTY4MmYiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxMX0=",
-      "title": "ENERGY BREAKS ON WHATNOT!",
+      "id": "eyJzZWdtZW50SUQiOiI1ZjFjNzE2Zi1kNjM5LTRmZjktOTFhZC02ZjNiMTRkNDBlYjAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
+      "title": "Party Night",
+      "category": "You Don't Know Jack",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/4294_IGDB-285x380.jpg",
+      "startTime": "2026-11-14T22:00:00+00:00",
+      "endTime": "2027-03-14T02:00:00+00:00",
+      "isRecurring": true,
+      "cadence": "Weekly until 03/13/27",
+      "url": "https://www.twitch.tv/1HGtv"
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3OTdlNjRkZC1iYzM5LTRlOTYtYjQ1OS1jOWRjMGY2MzExNDAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
+      "title": "WhatNot Livestream",
       "category": "Pok\u00e9mon Trading Card Game",
       "image": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-285x380.jpg",
-      "startTime": "2027-03-15T14:30:00+00:00",
-      "endTime": "2030-09-09T18:30:00+00:00",
+      "startTime": "2026-11-15T22:00:00+00:00",
+      "endTime": "2027-03-08T02:00:00+00:00",
       "isRecurring": true,
-      "cadence": "Weekly until 09/09/30",
+      "cadence": "Weekly until 03/07/27",
+      "url": "https://www.twitch.tv/1HGtv"
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0OGU2MWRjZi1mOGI3LTRjNjMtYjUzNy0zMjUxYzNlYTc5NTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "title": "Late Night Legends",
+      "category": "Fortnite",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/33214-285x380.jpg",
+      "startTime": "2026-11-18T03:00:00+00:00",
+      "endTime": "2027-03-10T07:00:00+00:00",
+      "isRecurring": true,
+      "cadence": "Weekly until 03/10/27",
+      "url": "https://www.twitch.tv/1HGtv"
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3OTdlNjRkZC1iYzM5LTRlOTYtYjQ1OS1jOWRjMGY2MzExNDAiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxMH0=",
+      "title": "WhatNot Livestream",
+      "category": "Pok\u00e9mon Trading Card Game",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-285x380.jpg",
+      "startTime": "2027-03-14T21:00:00+00:00",
+      "endTime": "2027-10-25T01:00:00+00:00",
+      "isRecurring": true,
+      "cadence": "Weekly until 10/24/27",
+      "url": "https://www.twitch.tv/1HGtv"
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0OGU2MWRjZi1mOGI3LTRjNjMtYjUzNy0zMjUxYzNlYTc5NTciLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxMX0=",
+      "title": "Late Night Legends",
+      "category": "Fortnite",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/33214-285x380.jpg",
+      "startTime": "2027-03-17T02:00:00+00:00",
+      "endTime": "2027-10-27T06:00:00+00:00",
+      "isRecurring": true,
+      "cadence": "Weekly until 10/27/27",
+      "url": "https://www.twitch.tv/1HGtv"
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZDU3NTBkNi1iYTdiLTRmMmQtODU3OS02OWU0MGQxZWM3MTkiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxMX0=",
+      "title": "Extract or Die Trying",
+      "category": "ARC Raiders",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/464339927-285x380.jpg",
+      "startTime": "2027-03-19T02:00:00+00:00",
+      "endTime": "2027-10-22T06:00:00+00:00",
+      "isRecurring": true,
+      "cadence": "Weekly until 10/22/27",
+      "url": "https://www.twitch.tv/1HGtv"
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI1ZjFjNzE2Zi1kNjM5LTRmZjktOTFhZC02ZjNiMTRkNDBlYjAiLCJpc29ZZWFyIjoyMDI3LCJpc29XZWVrIjoxMX0=",
+      "title": "Party Night",
+      "category": "You Don't Know Jack",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/4294_IGDB-285x380.jpg",
+      "startTime": "2027-03-20T21:00:00+00:00",
+      "endTime": "2027-10-24T01:00:00+00:00",
+      "isRecurring": true,
+      "cadence": "Weekly until 10/23/27",
       "url": "https://www.twitch.tv/1HGtv"
     }
   ]
