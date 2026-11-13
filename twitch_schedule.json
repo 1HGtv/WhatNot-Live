@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:39:05.464479+00:00",
+  "updated": "2026-11-13T07:09:35.883796+00:00",
   "username": "1HGtv",
   "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2b22cc9-6651-4086-b1c2-622868d3af4d-profile_image-300x300.png",
   "shows": [
@@ -37,7 +37,7 @@
       "url": "https://www.twitch.tv/1HGtv"
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0ZDU3NTBkNi1iYTdiLTRmMmQtODU3OS02OWU0MGQxZWM3MTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
+      "id": "eyJzZWdtZW50SUQiOiI0ZDU3NTBkNi1iYTdiLTRmMmQtODU3OS02OWU0MGQxZWM3MTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
       "title": "Extract or Die Trying",
       "category": "ARC Raiders",
       "image": "https://static-cdn.jtvnw.net/ttv-boxart/464339927-285x380.jpg",
@@ -75,9 +75,9 @@
       "category": "ARC Raiders",
       "image": "https://static-cdn.jtvnw.net/ttv-boxart/464339927-285x380.jpg",
       "startTime": "2027-03-19T02:00:00+00:00",
-      "endTime": "2027-10-22T06:00:00+00:00",
+      "endTime": "2027-10-29T06:00:00+00:00",
       "isRecurring": true,
-      "cadence": "Weekly until 10/22/27",
+      "cadence": "Weekly until 10/29/27",
       "url": "https://www.twitch.tv/1HGtv"
     },
     {
