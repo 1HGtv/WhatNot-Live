@@ -1,19 +1,8 @@
 {
-  "updated": "2026-11-13T02:29:47.830146+00:00",
+  "updated": "2026-11-13T03:01:05.508355+00:00",
   "username": "1HGtv",
   "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2b22cc9-6651-4086-b1c2-622868d3af4d-profile_image-300x300.png",
   "shows": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI0ZDU3NTBkNi1iYTdiLTRmMmQtODU3OS02OWU0MGQxZWM3MTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
-      "title": "Extract or Die Trying",
-      "category": "ARC Raiders",
-      "image": "https://static-cdn.jtvnw.net/ttv-boxart/464339927-285x380.jpg",
-      "startTime": "2026-11-13T03:00:00+00:00",
-      "endTime": "2027-03-12T07:00:00+00:00",
-      "isRecurring": true,
-      "cadence": "Weekly until 03/12/27",
-      "url": "https://www.twitch.tv/1HGtv"
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI1ZjFjNzE2Zi1kNjM5LTRmZjktOTFhZC02ZjNiMTRkNDBlYjAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
       "title": "Party Night",
@@ -45,6 +34,17 @@
       "endTime": "2027-03-10T07:00:00+00:00",
       "isRecurring": true,
       "cadence": "Weekly until 03/10/27",
+      "url": "https://www.twitch.tv/1HGtv"
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI0ZDU3NTBkNi1iYTdiLTRmMmQtODU3OS02OWU0MGQxZWM3MTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
+      "title": "Extract or Die Trying",
+      "category": "ARC Raiders",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/464339927-285x380.jpg",
+      "startTime": "2026-11-20T03:00:00+00:00",
+      "endTime": "2027-03-12T07:00:00+00:00",
+      "isRecurring": true,
+      "cadence": "Weekly until 03/12/27",
       "url": "https://www.twitch.tv/1HGtv"
     },
     {
