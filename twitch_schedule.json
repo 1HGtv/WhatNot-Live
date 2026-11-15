@@ -1,19 +1,8 @@
 {
-  "updated": "2026-11-15T21:49:40.885142+00:00",
+  "updated": "2026-11-15T22:23:28.213795+00:00",
   "username": "1HGtv",
   "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2b22cc9-6651-4086-b1c2-622868d3af4d-profile_image-300x300.png",
   "shows": [
-    {
-      "id": "eyJzZWdtZW50SUQiOiI3OTdlNjRkZC1iYzM5LTRlOTYtYjQ1OS1jOWRjMGY2MzExNDAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
-      "title": "WhatNot Livestream",
-      "category": "Pok\u00e9mon Trading Card Game",
-      "image": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-285x380.jpg",
-      "startTime": "2026-11-15T22:00:00+00:00",
-      "endTime": "2027-03-08T02:00:00+00:00",
-      "isRecurring": true,
-      "cadence": "Weekly until 03/07/27",
-      "url": "https://www.twitch.tv/1HGtv"
-    },
     {
       "id": "eyJzZWdtZW50SUQiOiI0OGU2MWRjZi1mOGI3LTRjNjMtYjUzNy0zMjUxYzNlYTc5NTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
       "title": "Late Night Legends",
@@ -45,6 +34,17 @@
       "endTime": "2027-03-14T02:00:00+00:00",
       "isRecurring": true,
       "cadence": "Weekly until 03/13/27",
+      "url": "https://www.twitch.tv/1HGtv"
+    },
+    {
+      "id": "eyJzZWdtZW50SUQiOiI3OTdlNjRkZC1iYzM5LTRlOTYtYjQ1OS1jOWRjMGY2MzExNDAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
+      "title": "WhatNot Livestream",
+      "category": "Pok\u00e9mon Trading Card Game",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-285x380.jpg",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "endTime": "2027-03-08T02:00:00+00:00",
+      "isRecurring": true,
+      "cadence": "Weekly until 03/07/27",
       "url": "https://www.twitch.tv/1HGtv"
     },
     {
