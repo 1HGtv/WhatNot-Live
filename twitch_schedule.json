@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T23:29:50.276855+00:00",
+  "updated": "2026-11-16T00:05:41.855706+00:00",
   "username": "1HGtv",
   "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2b22cc9-6651-4086-b1c2-622868d3af4d-profile_image-300x300.png",
   "shows": [
@@ -37,7 +37,7 @@
       "url": "https://www.twitch.tv/1HGtv"
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI3OTdlNjRkZC1iYzM5LTRlOTYtYjQ1OS1jOWRjMGY2MzExNDAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0Nn0=",
+      "id": "eyJzZWdtZW50SUQiOiI3OTdlNjRkZC1iYzM5LTRlOTYtYjQ1OS1jOWRjMGY2MzExNDAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
       "title": "WhatNot Livestream",
       "category": "Pok\u00e9mon Trading Card Game",
       "image": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-285x380.jpg",
@@ -53,9 +53,9 @@
       "category": "Pok\u00e9mon Trading Card Game",
       "image": "https://static-cdn.jtvnw.net/ttv-boxart/9618_IGDB-285x380.jpg",
       "startTime": "2027-03-14T21:00:00+00:00",
-      "endTime": "2027-10-25T01:00:00+00:00",
+      "endTime": "2027-11-01T01:00:00+00:00",
       "isRecurring": true,
-      "cadence": "Weekly until 10/24/27",
+      "cadence": "Weekly until 10/31/27",
       "url": "https://www.twitch.tv/1HGtv"
     },
     {
