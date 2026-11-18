@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T06:51:40.462195+00:00",
+  "updated": "2026-11-18T07:21:45.545308+00:00",
   "username": "1HGtv",
   "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2b22cc9-6651-4086-b1c2-622868d3af4d-profile_image-300x300.png",
   "shows": [
@@ -37,7 +37,7 @@
       "url": "https://www.twitch.tv/1HGtv"
     },
     {
-      "id": "eyJzZWdtZW50SUQiOiI0OGU2MWRjZi1mOGI3LTRjNjMtYjUzNy0zMjUxYzNlYTc5NTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0N30=",
+      "id": "eyJzZWdtZW50SUQiOiI0OGU2MWRjZi1mOGI3LTRjNjMtYjUzNy0zMjUxYzNlYTc5NTciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjo0OH0=",
       "title": "Late Night Legends",
       "category": "Fortnite",
       "image": "https://static-cdn.jtvnw.net/ttv-boxart/33214-285x380.jpg",
@@ -64,9 +64,9 @@
       "category": "Fortnite",
       "image": "https://static-cdn.jtvnw.net/ttv-boxart/33214-285x380.jpg",
       "startTime": "2027-03-17T02:00:00+00:00",
-      "endTime": "2027-10-27T06:00:00+00:00",
+      "endTime": "2027-11-03T06:00:00+00:00",
       "isRecurring": true,
-      "cadence": "Weekly until 10/27/27",
+      "cadence": "Weekly until 11/03/27",
       "url": "https://www.twitch.tv/1HGtv"
     },
     {
